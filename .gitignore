@@ -25,3 +25,6 @@ hs_err_pid*
 # Eclipse resources
 */.settings/*
 */.factorypath
+
+# macOS resources
+.DS_Store
